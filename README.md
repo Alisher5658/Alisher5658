@@ -52,4 +52,4 @@ async def download_video(bot, message):
     else:
         await message.reply("Video yuklab olishda xatolik yuz berdi.")
 
-bot.run() 
+bot.run
